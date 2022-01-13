@@ -75,7 +75,7 @@ li a
 .cal1
 {
 	float: left;width: 33%;height: 250px;border:solid 2px;text-align: center;
-    border:solid 2px;background-image: url(des1.png); background-repeat: no-repeat;
+    border:solid 2px;background-image: url(images/des1.png); background-repeat: no-repeat;
 	background-attachment: fixed;background-size: 100% 100%;
 	margin-right: 2px;
    }
@@ -83,7 +83,7 @@ li a
 .cal2
 {
 	float: left;width: 33%;height: 250px;border:solid 2px;text-align: center;
-	 border:solid 2px;background-image: url(des7.png); background-repeat: no-repeat;
+	 border:solid 2px;background-image: url(images/des7.png); background-repeat: no-repeat;
 	background-attachment: fixed;background-size: 100% 100%;
 	margin-right: 2px;
 }
@@ -92,7 +92,7 @@ li a
 {
 	float: left;width: 33%;height: 250px;border:solid 2px;text-align: center;
 	 border:solid 2px;
-	 background-image: url(des6.png); 
+	 background-image: url(images/des6.png); 
 	 background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100% 100%;
