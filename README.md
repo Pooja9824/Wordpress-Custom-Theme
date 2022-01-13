@@ -1,2 +1,3 @@
 # Wordpress-Custom-Theme
-This is simple wordpress theme, created by student.
+This is simple wordpress theme, created by me.
+
